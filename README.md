@@ -2,8 +2,6 @@
 
 A simple, modern Flutter application to calculate your Body Mass Index (IMC/ BMI) and visualize your health category.
 
-![IMC Calculator Screenshot](assets/img/normal.png)
-
 ## Features
 
 - **Instant BMI Calculation:** Enter your weight (kg) and height (m) to get your BMI instantly.
@@ -48,7 +46,7 @@ A simple, modern Flutter application to calculate your Body Mass Index (IMC/ BMI
 
 
 ## Exemple
-![exemple](screens/imc-result.png)
+<img src="screens/imc-result.png" alt="Result Example" width="250"/>
 
 ## Project Structure
 
@@ -60,11 +58,3 @@ A simple, modern Flutter application to calculate your Body Mass Index (IMC/ BMI
 - Update images in `assets/img/` to personalize the look.
 - Adjust BMI ranges or categories in `main.dart` as needed.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Made with ❤️ using [Flutter](https://flutter.dev/)
-# flutter-imc-calculator
