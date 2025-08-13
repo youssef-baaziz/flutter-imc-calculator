@@ -48,7 +48,7 @@ A simple, modern Flutter application to calculate your Body Mass Index (IMC/ BMI
 
 
 ## Exemple
-![exemple](assets/img/imc-result.png)
+![exemple](screens/imc-result.png)
 
 ## Project Structure
 
