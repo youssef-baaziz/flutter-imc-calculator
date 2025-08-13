@@ -42,9 +42,9 @@ A simple, modern Flutter application to calculate your Body Mass Index (IMC/ BMI
 
 ## Screenshots
 
-| Normal Weight | Overweight | Obesity |
-|:-------------:|:----------:|:-------:|
-| ![Normal](assets/img/normal.png) | ![Overweight](assets/img/surpoids.png) | ![Obesity](assets/img/obesite.png) |
+| Underweight | Normal Weight | Overweight | Obese | Extremely Obese |
+|:-----------:|:-------------:|:----------:|:-----:|:---------------:|
+| ![Underweight](assets/img/underweight.png) | ![Normal](assets/img/normal_weight.png) | ![Overweight](assets/img/overweight.png) | ![Obese](assets/img/obese.png) | ![Extremely Obese](assets/img/extremly_obese.png) |
 
 ## Project Structure
 
