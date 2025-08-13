@@ -46,6 +46,10 @@ A simple, modern Flutter application to calculate your Body Mass Index (IMC/ BMI
 |:-----------:|:-------------:|:----------:|:-----:|:---------------:|
 | ![Underweight](assets/img/underweight.png) | ![Normal](assets/img/normal_weight.png) | ![Overweight](assets/img/overweight.png) | ![Obese](assets/img/obese.png) | ![Extremely Obese](assets/img/extremly_obese.png) |
 
+
+## Exemple
+![exemple](assets/img/imc-result.png)
+
 ## Project Structure
 
 - `lib/main.dart` — Main application code

@@ -71,15 +71,15 @@ class _ImcPageState extends State<ImcPage> {
   /// Returns (label, assetPath)
   (String, String) _categoryFor(double bmi) {
     if (bmi < 18.5) {
-      return ('Maigreur', 'assets/img/maigreur.png');
+      return ('Maigreur', 'assets/img/underweight.png');
     } else if (bmi < 25) {
-      return ('Normal', 'assets/img/normal.png');
+      return ('Normal', 'assets/img/normal_weight.png');
     } else if (bmi < 30) {
-      return ('Surpoids', 'assets/img/surpoids.png');
+      return ('Surpoids', 'assets/img/overweight.png');
     } else if (bmi < 40) {
-      return ('Obésité modérée', 'assets/img/obesite_moderee.png');
+      return ('Obésité modérée', 'assets/img/obese.png');
     } else {
-      return ('Obésité sévère', 'assets/img/obesite_severe.png');
+      return ('Obésité sévère', 'assets/img/extremly_obese.png');
     }
   }
 
